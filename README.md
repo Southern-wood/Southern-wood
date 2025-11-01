@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img
+  src="https://github.com/Southern-wood/Southern-wood/blob/main/images/stat.svg"
+  alt="Alternative Text"
+/>
