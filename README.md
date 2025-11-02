@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <img
-  src="https://github.com/Southern-wood/Southern-wood/blob/main/images/stat.svg"
+  src="https://github.com/Southern-wood/Southern-wood/blob/main/images/wakatime_weekly_language_stats.svg"
   alt="Alternative Text"
 />
